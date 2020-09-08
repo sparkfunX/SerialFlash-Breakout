@@ -1,9 +1,7 @@
 SerialFlash-Breakout
 ========================================
 
-[![Serial Flash Breakout - Assembled](https://cdn.sparkfun.com//assets/parts/1/6/0/7/7/17115-Serial_Flash_Breakout_-_Assembled-01.jpg)
-
-[![Serial Flash Breakout - Bare](https://cdn.sparkfun.com//assets/parts/1/6/0/7/8/17116-Serial_Flash_Breakout_-_Bare-01.jpg)
+[![Serial Flash Breakout - Assembled](https://cdn.sparkfun.com//assets/parts/1/6/0/7/7/17115-Serial_Flash_Breakout_-_Assembled-01.jpg)]
 
 [*Serial Flash Breakout - Assembled*](https://www.sparkfun.com/products/17115)
 
